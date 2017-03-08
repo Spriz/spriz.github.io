@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/spriz
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://bondev.dk
+  * I am spriz (https://keybase.io/spriz) on keybase.
+  * I have a public key ASAF231riHL5kyfe4fTk2aoPeV4o78jX-KNFymsQr3GKwAo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "012005db7d6b8872f99327dee1f4e4d9aa0f795e28efc8d7f8a345ca6b10af718ac00a",
+            "host": "keybase.io",
+            "kid": "012005db7d6b8872f99327dee1f4e4d9aa0f795e28efc8d7f8a345ca6b10af718ac00a",
+            "uid": "3624d1bcb775313b25bbf2fba3f4b819",
+            "username": "spriz"
+        },
+        "service": {
+            "hostname": "bondev.dk",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.18"
+    },
+    "ctime": 1488985953,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1488985920,
+        "hash": "db352c0599275684e75afa9ebbbec1a431b3a286b7980ab46224384073d8031ea88d5c4ebf5fef4791946205e624f12e8bb50c3008eab1466528f538f6a2a1b2",
+        "seqno": 946350
+    },
+    "prev": "6df449ae6fd71e0bb411a9fc9269e77c620b4bfcaa372d6595c4ea0ff3cec67b",
+    "seqno": 12,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgBdt9a4hy+ZMn3uH05NmqD3leKO/I1/ijRcprEK9xisAKp3BheWxvYWTFAu57ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMDVkYjdkNmI4ODcyZjk5MzI3ZGVlMWY0ZTRkOWFhMGY3OTVlMjhlZmM4ZDdmOGEzNDVjYTZiMTBhZjcxOGFjMDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMDVkYjdkNmI4ODcyZjk5MzI3ZGVlMWY0ZTRkOWFhMGY3OTVlMjhlZmM4ZDdmOGEzNDVjYTZiMTBhZjcxOGFjMDBhIiwidWlkIjoiMzYyNGQxYmNiNzc1MzEzYjI1YmJmMmZiYTNmNGI4MTkiLCJ1c2VybmFtZSI6InNwcml6In0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJib25kZXYuZGsiLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjE4In0sImN0aW1lIjoxNDg4OTg1OTUzLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0ODg5ODU5MjAsImhhc2giOiJkYjM1MmMwNTk5Mjc1Njg0ZTc1YWZhOWViYmJlYzFhNDMxYjNhMjg2Yjc5ODBhYjQ2MjI0Mzg0MDczZDgwMzFlYTg4ZDVjNGViZjVmZWY0NzkxOTQ2MjA1ZTYyNGYxMmU4YmI1MGMzMDA4ZWFiMTQ2NjUyOGY1MzhmNmEyYTFiMiIsInNlcW5vIjo5NDYzNTB9LCJwcmV2IjoiNmRmNDQ5YWU2ZmQ3MWUwYmI0MTFhOWZjOTI2OWU3N2M2MjBiNGJmY2FhMzcyZDY1OTVjNGVhMGZmM2NlYzY3YiIsInNlcW5vIjoxMiwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEAzX/k3uF3agKs9oRsGbH9/5BVeqG6f9HnbD79s7PMre0Fwq+QdBfRi7dr22Jnp8KzhQwdgyLALoTxeHkNcdnsMqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgGKXCvY2AmkjgFbiRw/pQlOUPS4QZ2Z+1tgq5ASB085OjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/spriz
+
+==================================================================
